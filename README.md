@@ -1,4 +1,4 @@
-# Business-Case-Pandas-Netflix
+# Business Case: Netflix - Data Exploration and Visualization
 
 - Defined problem, conducted thorough data exploration, including categorical conversion and missing value detection.
 - Employed visualizations and statistical techniques to unveil distribution patterns, correlations, and outliers.
